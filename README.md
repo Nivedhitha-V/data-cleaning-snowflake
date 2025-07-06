@@ -6,12 +6,12 @@ A simple yet powerful Data Engineering mini-project where raw, messy global sale
 
 ## Table of Contents
 
-- [📦 Dataset](#-dataset)
-- [🧼 Cleaning Process](#-cleaning-process)
-- [📊 Analysis](#-analysis)
-- [📁 Project Files](#-project-files)
-- [🛠️ Tools Used](#-tools-used)
-- [🤝 Connect](#-connect)
+- [Dataset](#-dataset)
+- [Cleaning Process](#-cleaning-process)
+- [Analysis](#-analysis)
+- [Project Files](#-project-files)
+- [Tools Used](#-tools-used)
+- [Connect](#-connect)
 
 ---
 
@@ -78,8 +78,9 @@ Basic business analysis using SQL and optional Power BI dashboarding:
 
 This project demonstrates foundational Data Engineering skills, from raw file ingestion to clean, analysis-ready output.
 
-💡 Feel free to **⭐️ star** the repo or **fork** for practice or extension!
+Feel free to **star** the repo or **fork** for practice or extension!
 
-Made with 💙 by [Your Name](https://github.com/yourusername)  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+Made with 💙 by Nivedhitha V 
+[Github](https://github.com/Nivedhitha-V)
+[Email](nivedhithav0407@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nivedhitha-v/)
