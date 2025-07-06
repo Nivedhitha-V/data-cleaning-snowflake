@@ -60,8 +60,8 @@ Basic business analysis using SQL and optional Power BI dashboarding:
 | File | Description |
 |------|-------------|
 | `sales_data_sample.csv`        | Raw input sales data |
-| `sales_cleaned.csv`     | Cleaned and transformed dataset |
 | `cleaning.sql`          | SQL queries for cleaning  |
+| `sales_cleaned.csv`     | Cleaned and transformed dataset |
 | `analysing.sql`          | SQL queries for analysing |
 
 ---
