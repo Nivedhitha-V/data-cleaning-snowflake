@@ -69,8 +69,7 @@ Basic business analysis using SQL and optional Power BI dashboarding:
 ##  Tools Used
 
 -  **Snowflake SQL** – Data cleaning & querying  
--  **Power BI** – Optional business insights visualization  
--  **GitHub** – Version control & collaboration  
+-  **Power BI** – Optional business insights visualization   
 -  **SQL Logic** – Applied best practices for real-world data wrangling  
 
 ---
